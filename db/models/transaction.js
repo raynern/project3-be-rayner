@@ -31,6 +31,7 @@ module.exports = (sequelize, DataTypes) => {
           model: "category",
           key: "id",
         },
+      },
     },
     {
       sequelize,
